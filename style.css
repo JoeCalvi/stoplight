@@ -1,0 +1,53 @@
+body{
+    background-color: #7b7b7b;
+}
+
+.top{
+    background-color: black;
+    height: 25vh;
+    width: 10vw;
+}
+
+.container{
+    background-color: black;
+    height: 70vh;
+    width: 25vw;
+}
+
+.redlight{
+    background-color: red;
+    height: 20vh;
+    width: 15vw;
+    border-radius: 50%;
+}
+
+.yellowlight{
+    background-color: yellow;
+    height: 20vh;
+    width: 15vw;
+    border-radius: 50%;
+    margin: 1em;
+}
+
+.greenlight{
+    background-color: green;
+    height: 20vh;
+    width: 15vw;
+    border-radius: 50%;
+}
+
+.display-flex{
+    display: flex;
+}
+
+.justify-content-center{
+    justify-content: center;
+}
+
+.align-items-center{
+    align-items: center;
+}
+
+.column{
+    flex-direction: column;
+}
